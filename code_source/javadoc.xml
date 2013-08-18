@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="lib/libJchart/jcommon-1.0.16/jcommon-1.0.16.jar;lib/jade.jar;lib/libJchart/jfreechart-1.0.14/lib/jfreechart-1.0.14.jar;C:\MesDonnees\eclipse_J2EE\plugins\org.junit_3.8.2.v3_8_2_v20100427-1100\junit.jar" destdir="C:\Users\Mohamed\Desktop\javadoc_smart_grids" doctitle="Smart grids javadoc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="utilitaires,comportements.controleur,appareils,statistiques.statisticienPL.comportements,comportements.distributeur,interfaceGraphique.comportements,comportements.producteur,lancementApplication,testsUnitaires,statistiques.statisticien.comportements,comportements.producteurlocal,comportements.transformateur,comportements.foyer,comportements.compteurIntelligent,agents,statistiques.statisticienF.comportements,interfaceGraphique.agents,interfaceGraphique,statistiques.agents" source="1.7" sourcepath="src" splitindex="true" use="true" version="true">
+            <link href="http://download.oracle.com/javase/7/docs/api/"/>
+            <link href="http://www.junit.org/junit/javadoc/3.8.1"/>
+        </javadoc>
+    </target>
+</project>
